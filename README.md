@@ -15,6 +15,8 @@ Authentication
 
 - [x] Login with Email and Password
 - [ ] Login with Google Account
+- [ ] Signup with Email and Password
+- [ ] Signup with Google Account
 - [ ] Logout
 
 API 
